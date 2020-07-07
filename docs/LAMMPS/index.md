@@ -1,7 +1,8 @@
 ---
 layout: default
 title: LAMMPS
-parent: LAMMPS
+nav_order: 100
+has_children: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
